@@ -46,8 +46,8 @@ public class UnCheckedAppTest {
         NetworkClient networkClient = new NetworkClient();
 
         public void logic() {
+            repository.call();
             networkClient.call();
-            repository.call();   
         }
     }
 
