@@ -12,4 +12,6 @@ public class JpaMain {
 
         System.out.println("테스트 주석 push");
     }
+
+    //로컬 환경 테스트
 }
