@@ -9,5 +9,7 @@ public class JpaMain {
         /**
          * 블럭 테스트 주석 추가
          */
+
+        System.out.println("테스트 주석 push");
     }
 }
